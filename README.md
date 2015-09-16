@@ -17,14 +17,13 @@ that will come onto the screen.
  This was made as a part of a project.  
 
  Controls (Must use Xbox Controller):			                 
-		D-Pad controls directional movement:                        
-			Up: goes up				                                        
-			Down: goes down				                                    
-			Left: goes left				                                    
-			Right: goes right	
-
+	D-Pad controls directional movement:                        
+	Up: goes up				                                        
+	Down: goes down				                                    
+	Left: goes left				                                    
+	Right: goes right	
 	X, Y, B, A control directional shooting:            	      
-		Y: Shoot upwards			                                    
-		X: Shoot left				                                      
-		B: Shoot right				                                    
-		A: Shoot down				                                      
+	Y: Shoot upwards			                                    
+	X: Shoot left				                                      
+	B: Shoot right				                                    
+	A: Shoot down				                                      
