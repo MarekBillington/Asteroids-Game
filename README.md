@@ -13,8 +13,8 @@ long as possible. With a life count you get some
 help in order to destroy all the endless asteroids          
 that will come onto the screen.  
 
- My version of the classic game Asteroids.                   
- This was made as a part of a project.  
+ My however is my version of the classic game Asteroids.                   
+ This was made as a part of a project in a Game Programming Paper.
 
  Controls (Must use Xbox Controller):			                 
 	D-Pad controls directional movement:                        
