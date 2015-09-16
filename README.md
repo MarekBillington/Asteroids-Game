@@ -13,7 +13,6 @@
 -	that will come onto the screen.                             
 - My version of the classic game Asteroids.                   
 - This was made as a part of a project.                       
----------------------------------------------------------------
 - Controls (Must use Xbox Controller):			                 
 -	D-Pad controls directional movement:                        
 -		Up: goes up				                                        
@@ -25,4 +24,3 @@
 -		X: Shoot left				                                      
 -		B: Shoot right				                                    
 -		A: Shoot down				                                      
----------------------------------------------------------------
