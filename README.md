@@ -16,6 +16,9 @@ that will come onto the screen.
  My however is my version of the classic game Asteroids.                   
  This was made as a part of a project in a Game Programming Paper.
 
+The middleware used are FMOD, to control the sound processing and
+SDL to control drawing entities and keyevents.
+
  Controls (Must use Xbox Controller):			                 
 	D-Pad controls directional movement:                        
 	Up: goes up				                                        
