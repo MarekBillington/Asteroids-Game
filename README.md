@@ -17,6 +17,7 @@ that will come onto the screen.
  This was made as a part of a project in a Game Programming Paper.
 
 The middleware used are FMOD, to control the sound processing and
+
 SDL to control drawing entities and keyevents.
 
  Controls (Must use Xbox Controller):			                 
